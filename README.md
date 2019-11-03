@@ -1,4 +1,4 @@
-# quitar-bloqueo-elpais
+# quitar-bloqueo-elpais.com
 **Instalación:**
 
  1. Descargar y descomprimir la extensión. 
