@@ -1,0 +1,16 @@
+{
+    "name": "Anti-bloqueo elpais.com",
+    "version": "1.0",
+    "description": "Quitar modal bloqueo elpais.com",
+    "manifest_version": 2,
+    "icons": {
+        "16": "images/16.png",
+        "48": "images/48.png",
+        "128": "images/128.png"
+    },
+    "permissions": ["tabs", "*://*.elpais.com/*"],
+    "content_scripts": [{
+        "matches": ["*://*.elpais.com/*"],
+        "js": ["js/main.js"]
+    }]
+}
