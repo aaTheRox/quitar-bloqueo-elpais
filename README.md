@@ -1,4 +1,5 @@
 # quitar-bloqueo-elpais.com
+Esta extensión para Google Chrome, nos sirve para quitar la alerta modal de suscripción a elpais.com, nos permite navegar sin pagar esa suscripción.
 **Instalación:**
 
  1. Descargar y descomprimir la extensión. 
